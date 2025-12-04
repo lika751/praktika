@@ -1,3 +1,5 @@
+# Изменения в ветке edits для инженерного калькулятора
+# Добавлена расширенная обработка математических выражений
 import tkinter as tk
 from tkinter import font
 import math
@@ -319,4 +321,5 @@ def main():
 
 
 if __name__ == "__main__":
+
     main()
